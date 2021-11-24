@@ -49,28 +49,29 @@ Answer:  Both the oversampling models and the combination model had 0.99 geo sco
 #
 
 ## Part 2
-### Ensemble Learning - In process.
+### Ensemble Learning - Completed.
 1. Balanced Random Forest Classifier 
 Balanced Accuracy Score =  0.5
   
-    ![image](./images/ensemble.png)   
+    ![image](./images/random_forest.png)   
 2. Easy Ensemble Classifier
-Balanced Accuracy Score =  
+Balanced Accuracy Score =  0.926
   
-    ![image](./images/.png)   
+    ![image](./images/easy_ensemble.png)   
 
 #### **Part 2 Question:**
 - Which model had the best balanced accuracy score?    
- Answer:  
+ Answer:  The Easy Ensemble had the best balanced accuracy score at 0.926.
 
 - Which model had the best recall score?  
-Answer:  
+Answer:  The Balanced Random Forest had the best recall score at 0.99 vs Easy Ensemble at 0.94.
 
 - Which model had the best geometric mean score?   
-Answer:  
+Answer:  The Easy Ensemble had the best geo score at 0.93.
 
 - What are the top three features?  
-Answer:  
-
+Answer:  The top three features are installment, dti, and loan_amnt as shown in the graph below.  
+  
+    ![image](./images/features.png)  
 
 
