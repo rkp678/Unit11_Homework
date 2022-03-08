@@ -25,7 +25,7 @@ Balanced Accuracy Score = 0.994828
 3. SMOTE Oversampling  
 Balanced Accuracy Score = 0.994828 
   
-    ![image](./images/smote_oversampling.png)   
+    ![image](./images/SMOTE_oversampling.png)   
 4. Undersampling  
 Balanced Accuracy Score = 0.982881
   
